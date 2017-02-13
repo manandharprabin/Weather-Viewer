@@ -1,0 +1,15 @@
+body{
+  background-size:cover;
+}
+h1,h2{
+  font-family:Times New Roman,Monospace;
+}
+.info{
+  border: #ddd solid 1px;
+
+  border-radius: 5px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color:lightblue;
+
+}
